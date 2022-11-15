@@ -1,3 +1,7 @@
+
+
+Source: [Original Repo](https://github.com/jw9730/tokengt)
+<br>
 # Tokenized Graph Transformer (PyTorch)
 
 [**Pure Transformers are Powerful Graph Learners**](https://arxiv.org/abs/2207.02505) \
