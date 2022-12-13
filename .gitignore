@@ -36,6 +36,7 @@ wheels/
 
 # Checkpoints
 checkpoints
+large-scale-regression/scripts/ckpts/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
